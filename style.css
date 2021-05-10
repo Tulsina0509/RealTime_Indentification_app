@@ -28,6 +28,11 @@
     
 }
 
+.result_para_tag span
+{
+    white-space: pre-line;
+}
+
 .copy_right_footer {
     position:fixed;
     color: rgb(176, 255, 176);
@@ -43,10 +48,6 @@ canvas
     border:5px solid whitesmoke;
     border-radius:20px;
     box-shadow: 5px 5px 5px greenyellow;
-    margin-top:150px;
-}
+    margin-top:160px;
 
-.result_para_tag span
-{
-    white-space: pre-line;
 }
